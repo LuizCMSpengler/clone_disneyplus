@@ -47,6 +47,10 @@
                     span{
                         font-size: 50px;
                     }
+
+                    &:last-child {
+                        padding-bottom: 16px;
+                    }
                     }
             }
 
